@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Emil-PC" name="se.emillindau.UserControllerSpec" tests="6" time="3.692" timestamp="2014-09-11T17:31:14">
+  <properties />
+  <testcase classname="se.emillindau.UserControllerSpec" name="testLoginFailurePasswordInvalid" time="3.481" />
+  <testcase classname="se.emillindau.UserControllerSpec" name="testRegistrationFailed" time="0.045" />
+  <testcase classname="se.emillindau.UserControllerSpec" name="testLoginSuccess" time="0.046" />
+  <testcase classname="se.emillindau.UserControllerSpec" name="testLoginUserNotFound" time="0.029" />
+  <testcase classname="se.emillindau.UserControllerSpec" name="testPasswordsDoNotMatch" time="0.028" />
+  <testcase classname="se.emillindau.UserControllerSpec" name="testRegistrationSuccess" time="0.026" />
+  <system-out><![CDATA[--Output from testLoginFailurePasswordInvalid--
+--Output from testRegistrationFailed--
+--Output from testLoginSuccess--
+--Output from testLoginUserNotFound--
+--Output from testPasswordsDoNotMatch--
+--Output from testRegistrationSuccess--
+]]></system-out>
+  <system-err><![CDATA[--Output from testLoginFailurePasswordInvalid--
+--Output from testRegistrationFailed--
+--Output from testLoginSuccess--
+--Output from testLoginUserNotFound--
+--Output from testPasswordsDoNotMatch--
+--Output from testRegistrationSuccess--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+--Output from testLoginFailurePasswordInvalid--
+--Output from testRegistrationFailed--
+--Output from testLoginSuccess--
+--Output from testLoginUserNotFound--
+--Output from testPasswordsDoNotMatch--
+--Output from testRegistrationSuccess--

@@ -1,0 +1,25 @@
+Testsuite: se.emillindau.UserControllerSpec
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 3,692 sec
+------------- Standard Output ---------------
+--Output from testLoginFailurePasswordInvalid--
+--Output from testRegistrationFailed--
+--Output from testLoginSuccess--
+--Output from testLoginUserNotFound--
+--Output from testPasswordsDoNotMatch--
+--Output from testRegistrationSuccess--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testLoginFailurePasswordInvalid--
+--Output from testRegistrationFailed--
+--Output from testLoginSuccess--
+--Output from testLoginUserNotFound--
+--Output from testPasswordsDoNotMatch--
+--Output from testRegistrationSuccess--
+------------- ---------------- ---------------
+
+Testcase: testLoginFailurePasswordInvalid took 3,481 sec
+Testcase: testRegistrationFailed took 0,045 sec
+Testcase: testLoginSuccess took 0,047 sec
+Testcase: testLoginUserNotFound took 0,029 sec
+Testcase: testPasswordsDoNotMatch took 0,028 sec
+Testcase: testRegistrationSuccess took 0,026 sec
